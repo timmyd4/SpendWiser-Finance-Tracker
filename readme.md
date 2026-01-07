@@ -38,3 +38,6 @@
 - Users can accomplish key tasks by keeping track and monitoring their spending.
 
 ## Wireframe
+![alt text](image.png)
+### When the user clicks on one of the lists
+![alt text](image-1.png)
