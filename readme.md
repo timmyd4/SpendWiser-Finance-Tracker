@@ -23,3 +23,18 @@
 - Transaction History (list view)
 - Monthly summary dashboard
 - pie chart for categories
+
+## Core Entities
+- Integers
+- Strings
+- Images
+
+## Key Relationships 
+- Integers will be Dates, amount of money spent
+- Strings will store the Description
+- Images will be stored for easier identification
+
+## User Flows
+- Users can accomplish key tasks by keeping track and monitoring their spending.
+
+## Wireframe
